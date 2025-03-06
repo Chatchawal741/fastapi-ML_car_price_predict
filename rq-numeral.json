@@ -1,0 +1,26 @@
+{
+    "features":[
+        {
+            "Brand": 9,
+            "Model": 17,
+            "Year":  -0.658760,
+            "Engine_Size": 0.173537,
+            "Fuel_Type": 2,
+            "Transmission": 2,
+            "Mileage": -1.335655,
+            "Doors": 1.353914,
+            "Owner_Count":0.709189
+        },
+        {
+            "Brand": 9,
+            "Model": 17,
+            "Year":  0.558790,
+            "Engine_Size": 0.173537,
+            "Fuel_Type": 2,
+            "Transmission": 2,
+            "Mileage": -1.335655,
+            "Doors": 2.353914,
+            "Owner_Count":0.709189
+        }
+    ]
+}

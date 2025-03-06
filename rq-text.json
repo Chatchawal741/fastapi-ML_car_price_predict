@@ -1,0 +1,26 @@
+{
+    "features": [
+        {
+            "Brand": "Audi",
+            "Model": "A4", 
+            "Year": 2003,
+            "Engine_Size": 3.6,
+            "Fuel_Type": "Hybrid",
+            "Transmission": "Manual",
+            "Mileage": 189266,
+            "Doors": 3,
+            "Owner_Count": 5
+        },
+        {
+            "Brand": "Volkswagen",
+            "Model": "Tiguan",
+            "Year": 2020, 
+            "Engine_Size": 2.3,
+            "Fuel_Type": "Petrol",
+            "Transmission": "Automatic", 
+            "Mileage": 134572,
+            "Doors": 4,
+            "Owner_Count": 1
+        }
+    ]
+}
